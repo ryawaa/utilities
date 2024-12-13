@@ -1,3 +1,7 @@
+<img src="./docs/logo.png" width="250px" />
+
+<hr/>
+
 this repository contains a collection of utility scripts and tools for various one-off tasks. each utility is stored in its own directory within this repository.
 
 ### usage
